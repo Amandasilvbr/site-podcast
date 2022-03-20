@@ -1,4 +1,4 @@
-Olá! Esse projeto é uma página de login feita com HTML e CSS! Como é um dos meus primeiros projetos, ele está sujeito a alterações e melhorias.
+Olá! Esse projeto é uma landing page feita com HTML e CSS! Como é um dos meus primeiros projetos, ele está sujeito a alterações e melhorias.
 
 Considerações importantes:
 
